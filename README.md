@@ -67,3 +67,5 @@ Below are the results of accuracy score, low risks and high risks of precision a
 - Recall High Risk: 91% 
 - Recall Low Risk: 94%
 
+## Summary 
+Based on the analysis, we can see the all six model have close score for precision high risk between 1 - 7% and low risk at 100%. However, as we compare the accuracy scores of all models, we can say that Easy Ensemble AdaBoost Classifier would be the best model to use in this case given the high accuracy score of 93% with the other  five models are all below 80%. In addition, it also has the highest recall percentage of 91% for high risk and 94% for low risks. 
