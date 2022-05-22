@@ -50,6 +50,20 @@ Below are the results of accuracy score, low risks and high risks of precision a
 - Recall Low Risk: 43%
 
 ###### Balanced Random Forest Classifier
-![Balanced%20Classifier](ttps://github.com/Krystal313/Credit_Risk_Analysis/blob/22d8d8c4a686d519561275fb3ad99af9393af32e/Results/Balanced%20Classifier.png)
+![Balanced Classifier](https://github.com/Krystal313/Credit_Risk_Analysis/blob/22d8d8c4a686d519561275fb3ad99af9393af32e/Results/Balanced%20Classifier.png)
+
+- Accuracy Score: 78%
+- Precision High Risk: 4%
+- Precision Low Risk: 100%
+- Recall High Risk: 67% 
+- Recall Low Risk: 91%
 
 ###### Easy Ensemble AdaBoost Classifier
+![Ensemble Classifier](https://github.com/Krystal313/Credit_Risk_Analysis/blob/0fd83a6d60debd677d71d601e3d751b5b63bd74b/Results/Ensemble%20Classifier.png)
+
+- Accuracy Score: 93%
+- Precision High Risk: 7%
+- Precision Low Risk: 100%
+- Recall High Risk: 91% 
+- Recall Low Risk: 94%
+
