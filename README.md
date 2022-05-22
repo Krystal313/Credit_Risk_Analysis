@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Project Overview
-In this project, we will use supervised machine learning model to analysze the credit risk prediction. After spliting the data into two sets: training and testing, we use the following methods to get the accuracy score, confusion matries and classification report for prediction and determine which model(s) to use:
+In this project, we will use supervised machine learning model to analyze the credit risk prediction. After spliting the data into two sets: training and testing, we use the following methods to get the accuracy score, confusion matries and classification report and determine which model(s) would be the best one to use:
 
 1. Naive Random Oversampling
 2. SMOTE Oversampling
