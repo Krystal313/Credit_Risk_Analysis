@@ -13,7 +13,7 @@ In this project, we will use supervised machine learning model to analysze the c
 ## Results
 Below are the results of accuracy score, low risks and high risks of precision and recall for each model:
 
-###### Naive Random Oversampling
+###### 1. Naive Random Oversampling
 ![Random Oversampling](https://github.com/Krystal313/Credit_Risk_Analysis/blob/22d8d8c4a686d519561275fb3ad99af9393af32e/Results/Random%20Oversampling.png)
 
 - Accuracy Score: 62%
@@ -22,7 +22,7 @@ Below are the results of accuracy score, low risks and high risks of precision a
 - Recall High Risk: 60%
 - Recall Low Risk: 65%
 
-###### SMOTE Oversampling
+###### 2. SMOTE Oversampling
 ![SMOTE Oversampling](https://github.com/Krystal313/Credit_Risk_Analysis/blob/22d8d8c4a686d519561275fb3ad99af9393af32e/Results/SMOTE%20Oversampling.png)
 
 - Accuracy Score: 65%
@@ -31,7 +31,7 @@ Below are the results of accuracy score, low risks and high risks of precision a
 - Recall High Risk: 64%
 - Recall Low Risk: 66%
 
-###### Cluster Centroid Undersampling
+###### 3. Cluster Centroid Undersampling
 ![Undersampling](https://github.com/Krystal313/Credit_Risk_Analysis/blob/22d8d8c4a686d519561275fb3ad99af9393af32e/Results/Undersampling.png)
 
 - Accuracy Score: 51%
@@ -40,7 +40,7 @@ Below are the results of accuracy score, low risks and high risks of precision a
 - Recall High Risk: 59%
 - Recall Low Risk: 43%
 
-###### SMOTEENN Sampling
+###### 4. SMOTEENN Sampling
 ![Combo Sampling](https://github.com/Krystal313/Credit_Risk_Analysis/blob/22d8d8c4a686d519561275fb3ad99af9393af32e/Results/Combo%20Sampling.png)
 
 - Accuracy Score: 51%
@@ -49,7 +49,7 @@ Below are the results of accuracy score, low risks and high risks of precision a
 - Recall High Risk: 59% 
 - Recall Low Risk: 43%
 
-###### Balanced Random Forest Classifier
+###### 5. Balanced Random Forest Classifier
 ![Balanced Classifier](https://github.com/Krystal313/Credit_Risk_Analysis/blob/22d8d8c4a686d519561275fb3ad99af9393af32e/Results/Balanced%20Classifier.png)
 
 - Accuracy Score: 78%
@@ -58,7 +58,7 @@ Below are the results of accuracy score, low risks and high risks of precision a
 - Recall High Risk: 67% 
 - Recall Low Risk: 91%
 
-###### Easy Ensemble AdaBoost Classifier
+###### 6. Easy Ensemble AdaBoost Classifier
 ![Ensemble Classifier](https://github.com/Krystal313/Credit_Risk_Analysis/blob/0fd83a6d60debd677d71d601e3d751b5b63bd74b/Results/Ensemble%20Classifier.png)
 
 - Accuracy Score: 93%
